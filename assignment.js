@@ -84,14 +84,6 @@ var result = brickCalculator(18, 5, 14);
 
 
 
-//    var totalWallSize = 18*(5/12)*14;
-//    var totalWallResult = totalWallSize.toFixed(4);
 
-
-//      // 1 pace brick size 0.0867 feet ;
-
-//      var identifyTotalBricks = totalWallResult /0.0867 ;
-
-//      console.log(identifyTotalBricks)
 
 
